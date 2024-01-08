@@ -1,3 +1,8 @@
+# Flutter Fiddle
+
+This project was part of a workshop held by an external company called Dutch Coding Company. Below is an image showcasing the results of this workshop:
+![Screenshot 2024-01-08 at 10 22 25 am](https://github.com/greffgreff/flutter-fiddle/assets/56337726/62d76381-843f-4692-a854-cba2e3d57977)
+
 # Flutter Workshop 🐦
 
 Welcome to the Flutter Workshop hosted by Dutch Coding Company! 🚀
